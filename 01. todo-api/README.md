@@ -92,3 +92,5 @@ Actualiza una tarea. Cuerpo esperado:
 ```plaintext
 { "old": "Tarea anterior", "new": "Tarea nueva" }
 ```
+
+Francisco Guzman
