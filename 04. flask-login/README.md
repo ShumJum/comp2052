@@ -83,3 +83,5 @@ http://127.0.0.1:5000/login
 - Registro de nuevos usuarios.
 - Cifrado de contraseñas con `werkzeug.security`.
 - Implementación de roles y permisos.
+
+(Francisco Guzman)
